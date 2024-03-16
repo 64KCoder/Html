@@ -1,0 +1,30 @@
+body {
+    background-color: bisque;
+}
+p {
+    color: black;
+    display: flex;
+    font-family: fantasy;
+    font-style: italic;
+}
+h1 {
+    display: flex;
+    font-family: fantasy;
+    font-style: italic;
+}
+h2 {
+    display: flex;
+    font-family: fantasy;
+    font-style: italic;
+}
+h3 {
+    color: brown;
+    display: flex;
+    font-family: fantasy;
+    font-style: italic;
+}
+h4 {
+    display: flex;
+    font-family: fantasy;
+    font-style: italic;
+}
